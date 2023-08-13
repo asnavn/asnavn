@@ -2,14 +2,31 @@
 # Description: Anti Scam and Ads links for Vietnamese
 # Homepage: https://github.com/asnavn/asnavn
 # Expires: 7 days
-# Last modified: 13 Aug 2023 21:54
-# Version: 2034.08.13.21
+# Last modified: 13 Aug 2023 22:34
+# Version: 2023.08.13.22
 # Syntax: Domains (including possible subdomains)
 
+9lpro.com
+blackspy.net
+cashbird.online
+eulo55.com
+exchangevnd.com
+fhef22.com
 floxy666.vip
+ggmarketingsystem.com
+king-shopper.shop
+mercadosa.site
 m.vnsc-finhay.com
 mgm5415.com
 napthenew.vn
+nhanluon.online
+takedaznkjz.com
+tienichnhanh.pro
+tk9998.com
 topindex.pro
 vn8788.com
+vohuunhan.in
+walkingfun.net
 web.ebaing.cc
+z88vn.com
+zing-mp3.info
