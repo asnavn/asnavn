@@ -1,0 +1,28 @@
+! Version: 1.2
+! Title: Custom Filter List
+! Last modified: 12 Aug 2023 09:17pm
+
+animevietsub.moe##.announcement,.Ads,.ad-center-header,.pc-catfixx,.mobile-catfixx
+animevietsub.moe##div[class="Dvr-300"]
+cadtutor.net/##.below-page-header,.after-first-post,.above-page-footer
+hdvip.tv##.rightleftads
+hhtq.vip##[id*="topbanner-img"]
+hhtq.vip##[id*="catfish"]
+hoathinhtq.tv###popup-giua-man-hinh,#catfish
+kenh14.vn##.trendAd-wrapper,.knswli,.done-get-sticker
+kenh14.vn##.Kenh14Player-overlay
+m.kenh14.vn##.adv-box,.kwlistick,.done-get-sticker
+m.kenh14.vn###admMicrositeBlock
+magiamgiashopee.vn##.elementor-popup-modal,.pgg-ext-banner,.pgg_ext_zone
+pastebin.com##.popup-container
+tinhte.vn##.micro,.adWidget,.khaosat-container,.in-article-promo,.middle-comment-promotion
+tinhte.vn#?#div:has(> div[class$="item"][style^="width:"])
+tutorialspoint.com##.layout-panel-east
+voz.vn##.v-element > .v-responsive > .vm-placement
+voz.vn##body[data-template="forum_view"] .p-body-sidebar
+voz.vn##body[data-template="thread_view"] .p-body-sidebar
+voz.vn#?#div:has(> div[class^="div-pw-"])
+vnexpress.net##.box-raovat-v2
+vnexpress.net##.box-shop-sell
+
+||hoathinhtq.tv/js/vast.js

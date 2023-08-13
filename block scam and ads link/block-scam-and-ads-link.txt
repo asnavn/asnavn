@@ -1,0 +1,11 @@
+# Title: ASNAVN
+# Description: Anti Scam and Ads links for Vietnamese
+# Homepage: https://github.com/asnavn/asnavn
+# Expires: 7 days
+# Last modified: 13 Aug 2023 14:47
+# Version: 2034.08.13.14
+# Syntax: Domains (including possible subdomains)
+
+floxy666.vip
+mgm5415.com
+vn8788.com
