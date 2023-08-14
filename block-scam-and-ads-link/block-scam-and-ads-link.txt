@@ -2,12 +2,12 @@
 # Description: Anti Scam and Ads links for Vietnamese
 # Homepage: https://github.com/asnavn/asnavn
 # Expires: 7 days
-# Last modified: 14 Aug 2023 05:34
-# Version: 2023.08.14.05
+# Last modified: 14 Aug 2023 08:17
+# Version: 2023.08.14.08
 # Syntax: Domains (including possible subdomains)
 
-9lpro.com
-blackspy.net
+||9lpro.com^
+||blackspy.net^
 cashbird.online
 eulo55.com
 exchangevnd.com
