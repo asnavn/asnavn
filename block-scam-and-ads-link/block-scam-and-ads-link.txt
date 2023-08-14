@@ -7,7 +7,7 @@
 # Syntax: Domains (including possible subdomains)
 
 ||9lpro.com^
-||blackspy.net^
+*.blackspy.net
 cashbird.online
 eulo55.com
 exchangevnd.com
