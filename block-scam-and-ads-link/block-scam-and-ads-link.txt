@@ -2,8 +2,8 @@
 # Description: Anti Scam and Ads links for Vietnamese
 # Homepage: https://github.com/asnavn/asnavn
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:55
-# Version: 2023.08.16.22
+# Last modified: 17 Aug 2023 00:43
+# Version: 2023.08.17.00
 # Syntax: Domains
 
 9lpro.com
@@ -110,3 +110,17 @@ vietmofn.com
 bcbgsd.com
 catly.io
 mgm19999.top
+tienichxanh.cc
+winzle.shop
+thuongmaidichthuat-asia.com
+f88.online
+earnha.com
+fxtrade168.com
+nasd-index.com
+hotrodangky.net
+jobsdsds.com
+jbestvdw.top
+coshop.vin
+wmwlman.com
+neisaer.com
+shopelpie.com
