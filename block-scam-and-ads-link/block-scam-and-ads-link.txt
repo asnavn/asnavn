@@ -2,9 +2,9 @@
 # Description: Anti Scam and Ads links for Vietnamese
 # Homepage: https://github.com/asnavn/asnavn
 # Expires: 7 days
-# Last modified: 16 Aug 2023 07:43
-# Version: 2023.08.16.07
-# Syntax: Domains (including possible subdomains)
+# Last modified: 16 Aug 2023 22:55
+# Version: 2023.08.16.22
+# Syntax: Domains
 
 9lpro.com
 blackspy.net
@@ -67,3 +67,46 @@ qpjpv.top
 dogewow.club
 eulo99.com
 sieuthinguyenkim.com.vn
+wppbican.com
+toobit.one
+dichvu63.pro
+fbcode.pro
+dmxdh.com
+bitfury.finance
+winmax68.club
+kiemlua.com
+superdigitaladvertis.com
+copylove.top
+mallcos.com
+temu8shop.one
+luckypro666.com
+forestchk.com
+8k00000.com
+fhef11.com
+kebrostress.com
+vaytinchap836.com
+beatgen.ai
+92lottery.com
+sismartaas.com
+fibowin5.com
+mbk68.com
+nguyenhongsamlive1.online
+lightshophouse.com
+vinpearl-land.com
+congnghevetinh.com
+cronbase.pro
+phanmemgiamsat24h.top
+autobill.shop
+055338.com
+emily79.com
+tiktokmallvip.com
+clmm.ren
+m-facebook.com.vn
+la59642.com
+kqxs268.xyz
+4gsv.com
+bitvavosuk.com
+vietmofn.com
+bcbgsd.com
+catly.io
+mgm19999.top
